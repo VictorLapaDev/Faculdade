@@ -1,0 +1,47 @@
+# ==========================================
+# CONFIGURAÇÕES DO VS CODE
+# ==========================================
+.vscode/
+*.code-workspace
+.history/
+
+# ==========================================
+# PYTHON
+# ==========================================
+# Caches de compilação do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais (caso crie algum para instalar bibliotecas)
+venv/
+.venv/
+env/
+/env/
+/venv/
+
+# Perfil de testes e cobertura de código
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================================
+# JUPYTER NOTEBOOKS
+# ==========================================
+# Arquivos temporários e checkpoints que o Jupyter cria sozinho
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ==========================================
+# ARQUIVOS TEMPORÁRIOS DO SISTEMA OPERACIONAL
+# ==========================================
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+desktop.ini

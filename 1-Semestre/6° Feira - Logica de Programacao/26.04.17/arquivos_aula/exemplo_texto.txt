@@ -1,0 +1,5 @@
+Python é muito legal. 
+Nova linha. 
+Terceira linha com informações de teste 
+Meu nome é: Lapa
+Nova linha adicionada

@@ -1,0 +1,41 @@
+Ocorrencias ->
+	id_ocorrencia
+	id_local
+	id_data
+	id_tipo_ocorrencia
+	id_veiculo
+	id_causa
+	quant_pesoas_envolvidas
+	quant_veiculos_envolvidos
+	
+Local->
+	id_local
+	Logradouro
+	Estado
+	Cidade 
+
+Data->
+	id_data
+	Hora
+	Dia
+	Mês
+	Ano
+	Período
+	Dia_sem
+
+Tipos_Ocorrencia ->
+	id_tipo_ocorrencia
+	tipo_ocorrencia
+
+Veiculo->
+	id_veiculo
+	placa
+	Modelo
+	Cor
+	Cnh_dono
+
+Causa->
+	id_causa
+	causa
+
+

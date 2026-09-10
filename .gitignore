@@ -45,3 +45,48 @@ Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 desktop.ini
+
+# ==========================================
+# ARQUIVOS DE DADOS PESADOS (DATABASES & DATASETS)
+# ==========================================
+# Formatos binários e colunares
+*.parquet
+*.feather
+*.orc
+*.avro
+
+# Bancos de dados locais e dumps
+*.sqlite
+*.sqlite3
+*.db
+*.mdb
+*.accdb
+*.sql
+
+# Datasets pesados (opcional: remova se precisar salvar dados pequenos no Git)
+*.csv
+*.tsv
+*.xlsx
+*.ods
+
+# ==========================================
+# COMPACTADOS E MÍDIAS
+# ==========================================
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+*.pdf
+
+# ==========================================
+# MODELOS DE MACHINE LEARNING & PESOS
+# ==========================================
+*.pkl
+*.pickle
+*.h5
+*.keras
+*.onnx
+*.pt
+*.pth
+*.bin

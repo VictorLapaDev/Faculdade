@@ -97,8 +97,8 @@ Repositório destinado ao versionamento de **notebooks, scripts, exercícios pr�
 
 1. **Clone o repositório:**
 ```bash
-git clone [https://github.com/VictorLapaDev/NOME-DO-REPOSITORIO.git](https://github.com/VictorLapaDev/NOME-DO-REPOSITORIO.git)
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/VictorLapaDev/Faculdade.git
+cd Faculdade
 
 ```
 
